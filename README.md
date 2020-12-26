@@ -7,14 +7,17 @@ This code was not optimized for las versions of discord
 If you'll use it, Please edit all configs files
 
 ##commandes :
+
 ####<u>chat</u> : 
 - /clear [amount]
 - /lock
 - /say [message ..]
 - /unlock
+
 ####<u>fortnite</u> : 
 - /busticket
 - /spawn
+
 ####<u>general</u> : 
 - /broadcast
 - /help
@@ -23,6 +26,7 @@ If you'll use it, Please edit all configs files
 - /test
 - /unvalidate [@user]
 - /validate [@user]
+
 ####<u>moderation</u> : 
 - /ban [@user] [reason]
 - /kick [@user] [reason]
@@ -31,6 +35,7 @@ If you'll use it, Please edit all configs files
 - /tempmute [@user] [time] [reason]
 - /unmute [@user]
 - /warn [@user] [reason]
+
 ####<u>xp</u> : 
 - /leaderboard
 - /xp (@user)
