@@ -1,0 +1,65 @@
+{
+  "CmdPrefix": "/",
+  "status" : {
+    "name" : "/help"
+  },
+  "normal" : {
+    "guild_id" : "",
+    "channels" : {
+      "broadcast" : "",
+      "stream" : "",
+      "stream_annonce" : "",
+      "level" : "",
+      "sanctions": ""
+    },
+    "roles" : {
+      "developer" : "",
+      "directeur" : "",
+      "responsable" : "",
+      "admin" : "",
+      "modo" : "",
+      "modo-test" : "",
+      "animateur" : "",
+
+      "validate" : "",
+      "stream" : "",
+      "steam_notif" : "",
+      "welcome" : "",
+      "actif" : "",
+      "bus" : ""
+    },
+    "emojis" :  {
+      "notif" : "<a::617404050140299295>"
+    }
+  },
+  "dev" : {
+    "guild_id" : "",
+    "channels" :  {
+      "broadcast" : "",
+      "steam" : "",
+      "stream_annonce" : "",
+      "level" : "",
+      "sanctions": ""
+    },
+    "roles" : {
+      "developer" : "",
+      "directeur" : "",
+      "responsable" : "",
+      "admin" : "",
+      "modo" : "",
+      "modo-test" : "",
+      "animateur" : "",
+
+      "validate" : "",
+      "stream" : "",
+      "steam_notif" : "",
+      "welcome" : "",
+      "actif" : "",
+      "bus" : ""
+    },
+    "emojis" :  {
+      "notif" : "<a:notif:684121662836310083>"
+    }
+  },
+  "DevMode": false
+}
